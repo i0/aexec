@@ -1,0 +1,38 @@
+{
+  "name": "aexec",
+  "version": "1.0.3",
+  "description": "Async EXEC - A micro for executing shell commands that returns the output and supports Promise and await.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahdi Ghadamyari",
+  "license": "ISC",
+  "tags": [
+    "shell",
+    "sh",
+    "bash",
+    "async / await",
+    "child process",
+    "exec",
+    "cp.exec",
+    "execSync",
+    "promise"
+  ],
+  "keywords": [
+    "shell",
+    "sh",
+    "bash",
+    "async / await",
+    "child process",
+    "exec",
+    "cp.exec",
+    "execSync",
+    "promise"
+  ],
+  "homepage": "https://github.com/i0/aexec",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i0/aexec.git"
+  }
+}
