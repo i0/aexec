@@ -7,7 +7,7 @@ npm install aexec
 # Usage
 
 ```js
-import aexec from "../aexec";
+import aexec from "aexec";
 
 console.log(await aexec("ls"));
 /* Output:
