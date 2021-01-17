@@ -1,3 +1,8 @@
+
+#Introduction
+Async EXEC (aexec) is the promised-based version of the exec function in Node.js. It executes shell commands, returns the output, and you can await for the output.
+
+
 # Install
 
 ```bash
